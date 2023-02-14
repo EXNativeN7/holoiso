@@ -33,15 +33,11 @@ gpart
 gpm
 gptfdisk
 grml-zsh-config
-grub
+holoiso/grub
 hdparm
 holostaging/holoiso-install-script-gui
 intel-ucode
-ipw2100-fw
-ipw2200-fw
 irssi
-iw
-iwd
 jfsutils
 kitty-terminfo
 less
@@ -49,7 +45,7 @@ lftp
 libfido2
 libusb-compat
 linux-neptune
-linux-holoiso
+core-main/linux
 linux-atm
 linux-firmware
 linux-firmware-marvell
